@@ -62,7 +62,7 @@
             <div class="control col-md-6">
               <a href="signup.php" class="btn"> Sign up   </a>      
             
-              <a href="login.html" class="btn">  Login  </a>
+              <a href="login.php" class="btn">  Login  </a>
             </div>
           </center>
         </section>
