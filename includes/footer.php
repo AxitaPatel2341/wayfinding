@@ -10,7 +10,7 @@
               <div class="pr-xl-4"><a class="brand" href="shopping.php"><img class="brand-logo-light" src="image/logo1.png" alt="" width="140" height="140" srcset="images/agency/logo-retina-inverse-280x74.png 2x"></a>
                 <p>We are an award-winning creative agency, dedicated to the best path/route for every users with their destination products.</p>
                 <!-- Rights-->
-                <p class="rights"><span>©  </span><span class="copyright-year">2020</span><span> </span><span>Waves</span><span>. </span><span>All Rights Reserved.</span></p>
+                <p class="rights"><span>©  </span><span class="copyright-year"><?php echo date('Y'); ?></span><span> </span><span>Waves</span><span>. </span><span>All Rights Reserved.</span></p>
               </div>
             </div>
             <div class="col-md-4">
